@@ -1,0 +1,26 @@
+{
+  "name": "ssxd",
+  "displayName": "SSXD Theme",
+  "version": "1.0.0",
+  "main": "./extension.js",
+  "activationEvents": [],
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SSXD Theme",
+        "uiTheme": "vs-dark",
+        "path": "./ssxd.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/ssxd.git"
+  }
+}
