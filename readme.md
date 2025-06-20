@@ -1,4 +1,4 @@
-# VSCode Ayu Theme
+# VSCode SSXD Theme
 
 A Visual Studio Code theme inspired by the beautiful Ayu color scheme.
 
@@ -9,16 +9,6 @@ A Visual Studio Code theme inspired by the beautiful Ayu color scheme.
 - Optimized for readability and long coding sessions
 - Consistent highlighting across multiple languages
 
-## Colors
-
-- Background: `#0F1419`
-- Foreground: `#E6E1CF`
-- Accent: `#FF9940`
-- String: `#C2D94C`
-- Keywords: `#FF8F40`
-- Functions: `#39BAE6`
-- Comments: `#626A73`
-
 ## Installation
 
 1. Open VSCode
@@ -28,9 +18,9 @@ A Visual Studio Code theme inspired by the beautiful Ayu color scheme.
 5. Press Ctrl+K Ctrl+T to open the theme selector
 6. Select your preferred Ayu variant
 
-## Screenshots
+## Example
 
-[Add screenshots here]
+![SSXD Theme Example](example/code.png)
 
 ## Contributing
 

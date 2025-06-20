@@ -1,7 +1,7 @@
 {
   "name": "ssxd",
   "displayName": "SSXD Theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./extension.js",
   "publisher": "ssaurexd",
   "activationEvents": [],
@@ -23,5 +23,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ssaurexd/ssxd-theme.git"
-  }
+  },
+  "icon": "icon.png"
 }
