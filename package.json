@@ -3,6 +3,7 @@
   "displayName": "SSXD Theme",
   "version": "1.0.0",
   "main": "./extension.js",
+  "publisher": "ssaurexd",
   "activationEvents": [],
   "engines": {
     "vscode": "^1.89.0"
